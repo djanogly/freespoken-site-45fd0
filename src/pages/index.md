@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Wel
+    title: Freespoken. Clear &
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 

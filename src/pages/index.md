@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Web & Mobile App
+    title: Adaptive App Development for Changing Times
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 

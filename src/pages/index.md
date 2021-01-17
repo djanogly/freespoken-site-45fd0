@@ -127,6 +127,6 @@ sections:
     template: section_posts
     section_id: recent-posts
     title: Latest Posts
-    background: white
+    background: gray
 template: landing
 ---
